@@ -103,22 +103,11 @@ I'm particularly interested in:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=BelkorcheWidad&show_icons=true&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BelkorcheWidad&layout=compact&hide_border=true"/>
-
-</div>
-
----
 
 ## Contact
 
 <div align="center">
-
+Open to work & collaboration opportunities
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/widad-belkorche)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.belkorche@esi-sba.dz)
 
