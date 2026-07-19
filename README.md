@@ -2,9 +2,9 @@
 
 # Hi, I'm Widad Belkorche
 
-### Backend Developer · Software Engineering Graduate · Software Architecture Enthusiast
+### Software Engineer · Backend Developer · Software Architecture Enthusiast
 
-I enjoy building scalable backend systems, designing RESTful APIs, and exploring modern software architectures, including **Microservices** and **Event-Driven Systems**.
+I build scalable backend systems, design RESTful APIs, and explore modern software architectures, with a particular interest in **Microservices** and **Event-Driven Systems**.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/widad-belkorche)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.belkorche@esi-sba.dz)
@@ -16,11 +16,11 @@ I enjoy building scalable backend systems, designing RESTful APIs, and exploring
 
 ## About Me
 
-I'm a fresh Software Engineering graduate from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**, specializing in **Information Systems & Web**.
+I'm a recent Software Engineering graduate from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**, specializing in **Information Systems & Web**.
 
-My primary interest is backend engineering, where I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
+My primary focus is backend development, where I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
 
-I'm particularly interested in:
+### Areas of Interest
 
 - Backend Development
 - Software Architecture
@@ -35,6 +35,7 @@ I'm particularly interested in:
 
 <table>
 <tr>
+
 <td valign="top" width="50%">
 
 ### Languages
@@ -89,6 +90,7 @@ I'm particularly interested in:
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 </td>
+
 </tr>
 </table>
 
@@ -103,11 +105,13 @@ I'm particularly interested in:
 
 ---
 
-
 ## Contact
 
 <div align="center">
-Open to work & collaboration opportunities
+
+### Let's Connect
+ Feel free to reach out for professional opportunities or collaboration.
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/widad-belkorche)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.belkorche@esi-sba.dz)
 
