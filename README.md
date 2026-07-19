@@ -2,7 +2,7 @@
 
 # Hi, I'm Widad Belkorche
 
-### Software Engineer · Backend Developer · Software Architecture Enthusiast
+### Software Engineer · Backend Developer · Microservices Enthusiast
 
 I build scalable backend systems, design RESTful APIs, and explore modern software architectures, with a particular interest in **Microservices** and **Event-Driven Systems**.
 
@@ -20,7 +20,7 @@ I'm a recent Software Engineering graduate from **ESI-SBA (Higher School of Comp
 
 My primary focus is backend development, where I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
 
-### Areas of Interest
+### Current Interests
 
 - Backend Development
 - Software Architecture
@@ -64,7 +64,7 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 
 <td valign="top" width="50%">
 
-### Architecture
+### Architecture & Design
 
 ![Microservices](https://img.shields.io/badge/Microservices-4A90D9?style=flat-square)
 ![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=flat-square)
@@ -73,7 +73,7 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 ![CQRS](https://img.shields.io/badge/CQRS-6E4AFF?style=flat-square)
 ![SOLID](https://img.shields.io/badge/SOLID-FF6F00?style=flat-square)
 
-### DevOps & Tools
+### Developer Tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -81,7 +81,7 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
-### Frontend & Mobile
+### Other Technologies
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -100,8 +100,22 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 
 | Project | Description | Technologies |
 |----------|-------------|--------------|
-| **Chask** | Backend service for a collaborative task management platform featuring secure authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
-| **Audio Player** | Cross-platform Flutter application providing a modern audio playback experience with a clean and intuitive interface. | `Flutter` · `Dart` |
+| **Chask** | Backend service for a collaborative task management platform featuring authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
+| **Audio Player** | Cross-platform Flutter application providing a modern and intuitive audio playback experience. | `Flutter` · `Dart` |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=BelkorcheWidad&show_icons=true&hide_border=true&count_private=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=BelkorcheWidad&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=BelkorcheWidad&layout=compact&hide_border=true)
+
+</div>
 
 ---
 
@@ -110,7 +124,8 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 <div align="center">
 
 ### Let's Connect
- Feel free to reach out for professional opportunities or collaboration.
+
+Feel free to reach out for professional opportunities or collaboration.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/widad-belkorche)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.belkorche@esi-sba.dz)
