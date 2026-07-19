@@ -8,7 +8,6 @@ I build scalable backend systems, design RESTful APIs, and explore modern softwa
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/widad-belkorche)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:w.belkorche@esi-sba.dz)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BelkorcheWidad)
 
 </div>
 
@@ -16,11 +15,11 @@ I build scalable backend systems, design RESTful APIs, and explore modern softwa
 
 ## About Me
 
-I'm a recent Software Engineering graduate from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**, specializing in **Information Systems & Web**.
+I'm a recent **Software Engineering** graduate from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**, specializing in **Information Systems & Web**.
 
 My primary focus is backend development, where I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
 
-### Current Interests
+### Areas of Interest
 
 - Backend Development
 - Software Architecture
@@ -99,23 +98,9 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 ## Featured Projects
 
 | Project | Description | Technologies |
-|----------|-------------|--------------|
+|---------|-------------|--------------|
 | **Chask** | Backend service for a collaborative task management platform featuring authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
 | **Audio Player** | Cross-platform Flutter application providing a modern and intuitive audio playback experience. | `Flutter` · `Dart` |
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=BelkorcheWidad&show_icons=true&hide_border=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=BelkorcheWidad&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=BelkorcheWidad&layout=compact&hide_border=true)
-
-</div>
 
 ---
 
