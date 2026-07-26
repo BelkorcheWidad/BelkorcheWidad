@@ -94,13 +94,13 @@ My primary focus is backend development, where I enjoy designing scalable APIs, 
 </table>
 
 ---
-
 ## Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
-| **Chask** | Backend service for a collaborative task management platform featuring authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
+| **[Chask](https://github.com/BelkorcheWidad/Task_Chat_Management)** | Backend service for a collaborative task management platform featuring authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
 | **Audio Player** | Cross-platform Flutter application providing a modern and intuitive audio playback experience. | `Flutter` · `Dart` |
+
 
 ---
 
