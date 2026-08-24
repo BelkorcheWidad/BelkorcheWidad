@@ -15,9 +15,9 @@ I build scalable backend systems, design RESTful APIs, and explore modern softwa
 
 ## About Me
 
-I'm a recent **Software Engineering** graduate from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**, specializing in **Information Systems & Web**.
+I'm a **Software Engineer specializing in Backend Development**, with a background in **Information Systems & Web** from **ESI-SBA (Higher School of Computer Science, Sidi Bel Abbès)**.
 
-My primary focus is backend development, where I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
+I enjoy designing scalable APIs, building reliable systems, and applying software architecture principles to solve real-world problems.
 
 ### Areas of Interest
 
