@@ -93,16 +93,13 @@ I enjoy designing scalable APIs, building reliable systems, and applying softwar
 </tr>
 </table>
 
----
 ## Featured Projects
 
 | Project | Description | Technologies |
 |---------|-------------|--------------|
+| **[Cloud Infrastructure Manager](https://github.com/BelkorcheWidad/cloud-infrastructure-manager)** | Event-driven microservices platform for managing cloud infrastructure (Data Centers, Servers, VMs) using CQRS and Event Sourcing. | `Java 21` · `Spring Boot` · `Axon Framework` · `CQRS` · `Event Sourcing` · `MySQL` · `MongoDB` · `Docker` |
 | **[Chask](https://github.com/BelkorcheWidad/Task_Chat_Management)** | Backend service for a collaborative task management platform featuring authentication, real-time communication, RESTful APIs, and automated testing. | `Node.js` · `Express.js` · `PostgreSQL` · `Prisma ORM` · `Socket.IO` · `JWT` · `Jest` |
-| **Audio Player** | Cross-platform Flutter application providing a modern and intuitive audio playback experience. | `Flutter` · `Dart` |
-
-
----
+| **[Harmonia Audio Player](https://github.com/BelkorcheWidad/Harmonia_Audio_Player)** | Cross-platform Flutter application providing a modern and intuitive audio playback experience. | `Flutter` · `Dart` |
 
 ## Contact
 
